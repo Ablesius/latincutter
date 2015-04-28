@@ -1,0 +1,55 @@
+hinterher zu tun:
+
+Abstände checken, sodass Spalten gleiche Grundlinie haben
+Tabs, führende Leerzeichen entfernen
+hochgestellte Buchstaben entfernen
+Anführungszeichen einheitlich
+Lücken zwischen Seiten nach Möglichkeit entfernen
+
+Überschriften formatiert nach:
+1.	T$nummer
+2.	Autor <i>Titel</i> 1,2–3; 6–7 (Kommentar) (Titel: alle Wörter beginnen m. Großbuchstaben)
+
+Texte formatiert nach:
+
+	Blocksatz oder links ausgerichtet?
+	Silbentrennung aktiv? (z. B. nicht in Dichtung De, wo es manuelle Umbrüche gibt)
+	Dichtung: Verszahlen!
+	
+#####	Texte
+#####
+
+Überarbeiten: 
+
+	Ovid Trist. 4,4 de	V. 82–88 v. Hand abtippen
+
+	Plinius Ep. 2,17 la, de	Texte müssen überarb. werden!
+	Plinius Ep. 5,6 de	doppelten Text entf
+
+	Sec. Ep. 56		dt. Text fehlt teils, teils überarb. nötig
+
+	Stat. Silv. 2,2 de	de Txt überarb, Formatierung
+	Stat. Silv. 2,3 la, de	überfl. Leerz. entf; Übsg. T. prüfen
+	Stat. Silv. 4,3 de	de. Txt überarb; la & de stimmen nicht überein; Anm. 23.09.: lat. Text jetzt aus LLTA vervollständigt und latin-cutter-bearbeitet
+
+#	Tibull 1,3 de		muss von Hand abgetippt werden
+#	Tibull 1,5 de		muss teilw. von Hand abgetippt werden
+	Tibull 1,10 la		lat. Text fehlt
+	Tibull 2,3 de		muss teilw. von Hand abgetippt werden;
+					V. 71–79 fehlen!
+	Horaz 1,20 la		fehlt
+	
+
+
+	Test. 14-01-29		diverse Probleme der OCR-Erkennung, Einzelfälle prüfen und von Hand abtippen
+
+Arbeitsablauf Script:
+Dateien zum Bearbeiten nach ~/tmp kopieren bzw. lat. Text aus LLTA in Datei schreiben
+latincutter drüber jagen
+im Editor: Tabs für die Pentameter
+in odt kopieren
+nach Bearbeiten der Datei: zurück nach …/Reader… kopieren
+
+#####
+#####
+

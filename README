@@ -1,0 +1,23 @@
+Latin Cutter Version 1.0 28/04/15
+
+--------------------------------------------------------------------------------
+This program converts latin word spelling from differentiated u/v to universal 'u', as in 'arma uirumque cano', and removes double spaces and empty lines.
+--------------------------------------------------------------------------------
+
+USAGE
+Provide a latin text as a .txt-file, and type "latincutter.pl MYFILE.txt" in a terminal window. The output is saved as "output.txt" in your Home directory. 
+
+AUTHORS
+Alexander Blesius <onkel-pflaume@web.de>
+
+ChangeLog
+v. 1.0
+
+INSTALL
+You can install this program by copying it to your hard disk. You also need Perl installed on the machine you want to install latincutter; on Macs und Linux, Perl should already be installed. You can check this by running "perl -v" in a terminal window.
+
+COPYING / LICENSE
+This software is licensed under the GPL version 3; that means, you may redistribute this software, and make changes to it if you wish. See <http://www.gnu.org/licenses/> for details or if you're unsure what that means.
+
+BUGS
+None so far, but contact me (<onkel-pflaume@web.de>) if you find any.
