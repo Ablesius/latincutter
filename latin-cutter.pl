@@ -29,6 +29,7 @@ my $datei = $ARGV[0];
 open(EINGABE, $datei) or die "Input file $datei could not be opened.\n";
 my $text;
 my $i=0; # for line numbering
+
 # USER: change AUSGABE's file to the file you like, e. g. ">/home/myuser/latinstuff.txt"
 open(AUSGABE, ">/home/alex/latin_converted.txt") or die "output file could not be opened.\n";
 
